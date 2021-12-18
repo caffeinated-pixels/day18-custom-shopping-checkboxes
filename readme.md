@@ -1,4 +1,4 @@
-# JavaScriptmas Day 18 - Christmas Movie Selector
+# JavaScriptmas Day 18 - Custom Shopping Checkboxes
 
 My effort for [Scrimba's JavaScriptmas 2021](https://scrimba.com/learn/javascriptmas2021) Day 18 challenge.
 
