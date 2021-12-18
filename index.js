@@ -6,7 +6,7 @@ for (let i = 0; i < items.length; i++) {
          <div class="checklist-item">
                 <input type="checkbox" id="${items[i]}" value="${items[i]}">
                 <label for="${items[i]}" class="strikethrough">
-                    <span class="custom-checkbox">${items[i]}</span>
+                    ${items[i]}
                 </label>
             </div>
     `
