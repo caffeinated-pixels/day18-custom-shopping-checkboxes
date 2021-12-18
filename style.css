@@ -48,8 +48,11 @@ body {
   margin: 0.5em;
   width: 100%;
   text-align: left;
-  font-weight: bold;
   font-size: 1.25rem;
+}
+
+label {
+  font-weight: bold;
 }
 
 input[type='checkbox'],
