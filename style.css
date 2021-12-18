@@ -69,7 +69,7 @@ input[type='checkbox'] {
   font: inherit;
   width: 2.5em;
   height: 2.5em;
-  border: 0.15em solid var(--dark-green);
+  border: 0.2em solid var(--wine-red);
   border-radius: 0.15em;
   transform: translateY(-0.075em);
 
@@ -94,6 +94,10 @@ input[type='checkbox']::before {
 
 input[type='checkbox']:checked::before {
   transform: scale(1);
+}
+
+input[type='checkbox']:checked {
+  border-color: var(--light-green);
 }
 
 input[type='checkbox']:checked + label.strikethrough {
